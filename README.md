@@ -8,7 +8,7 @@ This client wished to update their already existing business card. I customized 
 
 ## Stay Kloudy Mylar Bag Design
 These images were created for an already established company. The goal was to design a maylar bag that had the company's log and a "feminine-like" [image](https://github.com/DanielleMonroeNY/GraphicDesigns/blob/main/LadyFingersAndClouds.jpeg). Othes options for further development posted as well. 
- **PLEASE NOTE THAT THE MAIN 'STAY KLOUDY' LOGO IS NOT OF MY DESIGN OR MAKING**
+** **PLEASE NOTE THAT THE MAIN 'STAY KLOUDY' LOGO IS NOT OF MY DESIGN OR MAKING** **
 
 ## WHY6 - Volunteer Work
 I was asked by my local WHY6 chapter to put together a simple informational flyer. I decided to create a silhouette of solder to help represent who the organization served. They were quite pleased with the [results](https://github.com/DanielleMonroeNY/GraphicDesigns/blob/main/WHY6InfoFlyer%20-%20Silhouette.jpeg) and welcomed the intuitiveness. 
