@@ -3,6 +3,8 @@
 ## Killer Mechanics - Logo Creation
 For [this](https://github.com/DanielleMonroeNY/GraphicDesigns/blob/main/KillerMechanics.jpeg) project, the client, an auto mechanic, simply asked for a skull and crossbones style of a logo. The name, piston, and adjustable wrench were of my own volition. The [piston](https://github.com/DanielleMonroeNY/GraphicDesigns/blob/main/Piston.jpeg) and [wrench](https://github.com/DanielleMonroeNY/GraphicDesigns/blob/main/AdjustableWrench.png) are also posted to show their detail. 
 
+![Killer Mechanics Logo](https://github.com/DanielleMonroeNY/GraphicDesigns/blob/main/KillerMechanics.jpeg "Killer Mechanic Logo")
+
 ## DJ RED - Rebranding
 This client wished to rebrand their already [existing business card](https://github.com/DanielleMonroeNY/GraphicDesigns/blob/main/DJRedOriginalBusinessCard.jpg). I customized a design with the objective being to 1) simplify the imagry so the client's clients can clearly understand what he does and 2) Utilize psychology of color and incorporate is name and color appropriately throughout the design. Several designs were cultivated and the client finally decided on [this design](https://github.com/DanielleMonroeNY/GraphicDesigns/blob/main/DJ%20REDFinal.jpeg) design. 
 
